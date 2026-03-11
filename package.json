@@ -1,0 +1,36 @@
+{
+  "name": "apifetch-cli",
+  "version": "1.0.0",
+  "description": "A fast, zero-dependency CLI tool for testing REST APIs from the terminal. Pretty-prints JSON, shows status codes, response times, and headers.",
+  "main": "bin/apifetch.js",
+  "bin": {
+    "apifetch": "bin/apifetch.js"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "http",
+    "fetch",
+    "cli",
+    "curl",
+    "httpie",
+    "rest-client",
+    "api-testing",
+    "json",
+    "request",
+    "terminal",
+    "developer-tools"
+  ],
+  "author": "Tate Lyman",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TateLyman/apifetch-cli"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "bin/"
+  ]
+}

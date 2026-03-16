@@ -123,3 +123,17 @@ apifetch GET https://api.example.com/status -V
 ## License
 
 MIT
+
+---
+
+## Support
+
+If you find this useful, consider supporting the project:
+
+[![Built on Solana](https://img.shields.io/badge/Built%20on-Solana-9945FF?style=flat&logo=solana&logoColor=white)](https://solana.com)
+
+**SOL Wallet:** `NaTTUfDDQ8U1RBqb9q5rz6vJ22cWrrT5UAsXuxnb2Wr`
+
+- [DevTools.run](https://devtools-site-delta.vercel.app) — Free developer tools
+- [@solscanitbot](https://t.me/solscanitbot) — Solana trading bot on Telegram
+- [GitHub Sponsors](https://github.com/sponsors/TateLyman)
